@@ -1,4 +1,6 @@
 import pytube
+import os
+import subprocess
 
 url = input("다운 받을 youtube 영상 주소를 입력하세요 : ")
 #url = 'https://www.youtube.com/watch?v=i7fnlJ60RO8&ab_channel=ionix95'
